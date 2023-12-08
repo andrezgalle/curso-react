@@ -1,0 +1,51 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan actualizado",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "nueva nota",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "andres gallego tovar",
+      "empresa": "235235235235",
+      "email": "a@a.com",
+      "telefono": "4324234234",
+      "notas": "asdq",
+      "id": 8
+    }
+  ],
+
+  "pagos":[
+    {
+      "nombre":"andres gallego tovar",
+      "numero_pedido":"124124111",
+      "articulos":["esterio","aseo"],
+      "metodo_pago":"efectivo",
+      "id":1
+    }
+  ]
+}
